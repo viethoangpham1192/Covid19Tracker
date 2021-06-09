@@ -41,3 +41,6 @@ Công nghệ sử dụng:
 
 Video Demo dự án:
 
+[Video](https://drive.google.com/file/d/143YRtPP4kNW2llAQ-88ih34KlCRsxXa8/view?usp=sharing)
+
+
